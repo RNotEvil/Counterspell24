@@ -1,0 +1,35 @@
+
+
+body {
+    background-color: rgb(188, 234, 120);
+}
+  
+h1 {
+color: black;
+text-align: center;
+}
+
+body {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+h1 {
+    font-family: Impact;
+}
+
+h2 {
+    font-family: verdana;
+    text-align: center;
+}
+
+p {
+font-family: verdana;
+font-size: 20px;
+}
+
+img {
+    width: 300px;
+}
+
+
